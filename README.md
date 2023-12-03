@@ -5,6 +5,7 @@ A curated list of the most popular blogs about communities, community building, 
 - https://communityroundtable.com/blog/
 - https://www.feverbee.com/blog/
 - https://rosie.land/
+- https://www.cmxhub.com/blog
 
 ## Another lists
 
